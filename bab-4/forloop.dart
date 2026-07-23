@@ -1,6 +1,6 @@
 void main() {
-  for (int i = 1; i <= 10; i++) {
-    int hasil = 9 * i;
-    print('9 x $i = $hasil');
+  // Mencetak angka 1 sampai 5
+  for (int i = 1; i < 5; i++) {
+    print('Perulangan ke-$i');
   }
 }
